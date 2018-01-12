@@ -1,5 +1,7 @@
 foolifish07's blog
 
-branch:
+branches:
+
 1. src - to store source
-2. master - to display
+
+2. master - to display pages
